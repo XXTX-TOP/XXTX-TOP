@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XXTX-TOP)](https://github.com/anuraghazra/github-readme-stats)
 
 
+Deepin/UOS 等Linux用户 开发环境Debian12
+目前在学习Linux C/C++/QT等
