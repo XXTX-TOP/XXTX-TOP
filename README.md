@@ -1,6 +1,6 @@
 ### XXTXTOP 👋 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XXTX-TOP)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-cs9f33izt-xxtxtops-projects.vercel.app/api?username=XXTX-TOP)](https://github.com/anuraghazra/github-readme-stats)
 
 Deepin/UOS、openkylin、debian、Windows11、macOS等多平台用户，开发环境：Debian12
 
